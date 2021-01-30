@@ -1,0 +1,19 @@
+{
+  "colors" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "pin.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "pin@2x.png",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
